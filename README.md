@@ -1,1 +1,1 @@
-# BethanysPieShopHRMApp
+# Blazor demo project
